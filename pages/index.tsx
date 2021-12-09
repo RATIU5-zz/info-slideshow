@@ -7,6 +7,13 @@ const slides = [
 	"/uploads/img (2).jpg",
 	"/uploads/img (3).jpg",
 	"/uploads/img (4).jpg",
+	"/uploads/img (5).jpg",
+	"/uploads/img (6).jpg",
+	"/uploads/img (7).jpg",
+	"/uploads/img (8).jpg",
+	"/uploads/img (9).jpg",
+	"/uploads/img (10).jpg",
+	"/uploads/img (11).jpg",
 ];
 
 export default function Home() {
