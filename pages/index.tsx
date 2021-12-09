@@ -3,9 +3,9 @@ import Slideshow from "../components/slideshow/slideshow";
 import styles from "../styles/Home.module.css";
 
 const slides = [
-	"/uploads/img (1).jpg",
+	"/uploads/img (9).jpg",
 	"/uploads/img (5).jpg",
-	"/uploads/img (7).jpg",
+	"/uploads/img (1).jpg",
 	"/uploads/img (9).jpg",
 	"/uploads/img (11).jpg",
 ];
