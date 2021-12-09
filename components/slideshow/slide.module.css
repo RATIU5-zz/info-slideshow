@@ -1,0 +1,28 @@
+.background {
+	filter: blur(2.5rem);
+	transform: scale(1.2, 1.2);
+}
+
+.enter {
+	opacity: 1 !important;
+}
+
+.enterActive {
+	opacity: 1 !important;
+}
+
+.enterDone {
+	opacity: 1 !important;
+}
+
+.exit {
+	opacity: 1 !important;
+}
+
+.exitActive {
+	opacity: 0 !important;
+}
+
+.exitDone {
+	opacity: 0 !important;
+}
